@@ -1,1 +1,51 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Noto Sans TC",
+               "Segoe UI", sans-serif;
+  line-height: 1.6;
+  background: #fafafa;
+  color: #333;
+}
+
+.hero {
+  padding: 80px 20px;
+  text-align: center;
+  background: #ffffff;
+}
+
+.hero h1 {
+  margin: 0;
+  font-size: 3rem;
+}
+
+.hero p {
+  margin-top: 10px;
+  color: #666;
+}
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+section {
+  margin-bottom: 60px;
+}
+
+h2 {
+  border-bottom: 2px solid #eee;
+  padding-bottom: 10px;
+}
+
+footer {
+  text-align: center;
+  padding: 30px;
+  font-size: 0.9rem;
+  color: #888;
+}
 
